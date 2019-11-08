@@ -1,0 +1,31 @@
+{
+  "name": "glasslytics-js",
+  "version": "1.0.0",
+  "description": "Glasslytics Javascript Client",
+  "keywords": [
+    "glasslytics",
+    "analytics",
+    "metrics",
+    "api"
+  ],
+  "homepage": "https://github.com/glasslytics/glasslytics-js",
+  "author": "Glasslytics <admin@glasslytics.com> (https://glasslytics.com/)",
+  "contributors": [
+    "David Burgos @daburix (https://davidburgos.blog/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/glasslytics/glasslytics-js.git"
+  },
+  "bugs:": "https://github.com/glasslytics/glasslytics-js/issues",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "jasmine": "^3.5.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "dependencies": {
+  }
+}
